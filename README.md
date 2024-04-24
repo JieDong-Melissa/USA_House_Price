@@ -9,6 +9,7 @@ The purpose of this project is to analyze long-term trends in US house prices to
 
 ### Methods Used
 * Statistical Analysis
+* Time series Analysis
 * Data Visualization
 * Predictive Modeling
 * Data Processing/Cleaning
@@ -22,5 +23,5 @@ The purpose of this project is to analyze long-term trends in US house prices to
 3. Data processing/transformation/EDA/Predictive Modeling scripts are being kept [here](https://github.com/JieDong-Melissa/USA_house_price/blob/main/EDA_House_prices.ipynb)
 
 ## Contact
-|Melissa Dong]([https://github.com/[JieDong-Melissa]](https://github.com/JieDong-Melissa))| melissadong0322@yahoo.com|
+|Melissa Dong]([https://github.com/[JieDong-Melissa]](https://github.com/JieDong-Melissa))| melissadong0322@yahoo.com |
 * Feel free to contact team leads with any questions or if you are interested in contributing!
