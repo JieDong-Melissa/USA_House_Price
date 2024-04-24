@@ -1,6 +1,6 @@
 # USA House Price Project 
 ![image](https://github.com/JieDong-Melissa/USA_house_price/blob/main/images/houses.jpeg)
-Merging 
+
 
 The dataset comprises data from the US Federal Reserve and house price data from Zillow, covering the period from Q1 1947 to Q1 2024. All datasets are in CSV file format, the values are measured in US dollars and collected quarterly.
 
