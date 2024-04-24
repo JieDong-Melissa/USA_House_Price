@@ -1,4 +1,4 @@
-# USA House Price Project 
+# Real Estate Market Prediction: Time Series Analysis of US House Prices
 ![image](https://github.com/JieDong-Melissa/USA_house_price/blob/main/images/houses.jpeg)
 
 
